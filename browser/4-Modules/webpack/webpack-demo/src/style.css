@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'Roboto';
+    src:url('./my-font.woff2') format('woff2'),
+        url('./my-font.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+}
+
+
+.hello {
+    color: blue;
+    font-family: 'Roboto';
+   /* background: url('./icon.png'); */
+}
+img {
+    border: solid 1px;
+}
