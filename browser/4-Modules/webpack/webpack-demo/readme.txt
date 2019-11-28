@@ -4,7 +4,7 @@ Part 1:  Getting Started
 1. 
 mkdir webpack-demo
 cd webpack-demo
-npm init -y
+npm init -y     ( -y stands for skipping asking questions)
 npm install webpack webpack-cli --save-dev
 
 2. Create folder structure
